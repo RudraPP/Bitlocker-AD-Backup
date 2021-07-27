@@ -1,3 +1,3 @@
 # Bitlocker-AD-Backup
 
-Hello
+Backup Bitlocker recovery password to AD and AAD depending on machine configuration
